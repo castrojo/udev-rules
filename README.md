@@ -2,6 +2,8 @@
 
 # udev-rules
 
+# DEPRECATED. PLEASE USE: https://github.com/ublue-os/config
+
 A layer for adding extra udev rules to your image. Use this for better hardware support!
 
 # Usage
