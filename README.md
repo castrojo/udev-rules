@@ -1,4 +1,5 @@
-[![build-ublue](https://github.com/ublue-os/udev-rules/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/udev-rules/actions/workflows/build.yml)
+# THIS REPO IS DEPRECATED
+# You probably want https://github.com/ublue-os/config
 
 # udev-rules
 
